@@ -1,0 +1,53 @@
+<style>
+
+.math_div {
+    border: solid;
+    border-width: 1px;
+    padding-right: 2em;
+}
+.examle_question {
+    border: double;
+    padding-right: 2em;
+}
+
+.question_assume {
+    border-bottom: solid;
+    border-width: 1px;
+    #background-color: dimgray;
+    
+}
+.question_ask {
+    border-bottom: solid;
+    border-width: 1px;
+    #background-color: dimgray;
+}
+.question_answer {
+    #border-bottom: solid;
+    border-width: 1px;
+    #background-color: dimgray;
+}
+
+.examle_question_title {
+    border-bottom: solid;
+    border-width: 1px;
+    background: gray;
+}
+
+.key_point {
+    color: red;
+}
+
+h3 {
+    border-bottom: solid;
+    background: teal;
+}
+
+h4 {
+    border: solid;
+    border-width: 2px
+}
+
+
+
+</style>
+
